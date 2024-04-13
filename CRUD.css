@@ -1,0 +1,57 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #d3b4b4;
+}
+
+h1{
+    text-align: center;
+    padding: 10px 0px;
+    margin: 10px 0px;
+}
+
+.container{
+    padding: 40px;
+    margin: 20px;
+}
+
+.container h1{
+    color: red;
+    font-family:arial;
+}
+
+label{
+    font-size: 20px;
+}
+
+#k, #v{
+    padding: 7px 4px;
+    font-size: 20px;
+}
+
+#addBtn{
+    padding: 8px 5px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    background: #269531;
+    cursor: pointer;
+    color: #000;
+}
+
+#status{
+    color: red;
+}
+
+
+th, td{
+    padding: 5px;
+    margin: 5px;
+    width: 100px;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
